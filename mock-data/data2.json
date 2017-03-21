@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Who",
+        "job": {
+            "employer": "Abbot",
+            "position": "First base"
+        },
+        "next": {
+            "name": "What",
+            "job": {
+                "employer": "Abbot",
+                "position": "Second base"
+            },
+            "next": {
+                "name": "Naturally",
+                "job": {
+                    "employer": "Free agent",
+                    "position": "First base"
+                }
+            }
+        }
+    }
+]

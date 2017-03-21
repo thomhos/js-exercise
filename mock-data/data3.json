@@ -1,0 +1,33 @@
+{
+    "name": "Douglas Crawford", 
+    "salary": 80000, 
+    "address": {
+        "line1": "c/o Unstructured Programmers Anonymous", 
+        "line2": "7723 Western Avenue", 
+        "city": "San Francisco", 
+        "state": "CA", 
+        "zip": "9123"
+    },
+    "next" : {
+        "name": "Douglas Crawford", 
+        "salary": 80000, 
+        "address": {
+            "line1": "c/o Unstructured Programmers Anonymous", 
+            "line2": "7723 Western Avenue", 
+            "city": "San Francisco", 
+            "state": "CA", 
+            "zip": "9123"
+        },
+        "next": {
+            "name": "Douglas Crawford", 
+            "salary": 80000, 
+            "address": {
+                "line1": "c/o Unstructured Programmers Anonymous", 
+                "line2": "7723 Western Avenue", 
+                "city": "San Francisco", 
+                "state": "CA", 
+                "zip": "9123"
+            }
+        }
+    }
+}

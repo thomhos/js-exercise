@@ -1,0 +1,19 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Extract the data types for json objects.",
+  "main": "index.js",
+  "bin": {
+    "extract-data-type": "index.js"
+  },
+  "scripts": {
+    "dev": "nodemon index.js mock-data/data3.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "nodemon": "^1.11.0"
+  }
+}
