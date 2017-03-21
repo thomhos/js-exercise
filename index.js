@@ -67,5 +67,5 @@ function writeJsonWithInterfaces(interfaces) {
 
     /* Write JSON output */
     //console.log(interfaces)
-    fs.writeFileSync('../output.json', JSON.stringify(interfaces), 'utf8')
+    fs.writeFileSync('./output.json', JSON.stringify(interfaces), 'utf8')
 }
